@@ -6,7 +6,7 @@ REST (Representational State Transfer) API with Django and Django REST Framework
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pxiaccount/CRUD-django.git
+    git clone https://github.com/pxiaccount/REST_API_Django.git
     cd REST_API_Django
     ```
 2. Create a virtual environment and activate it:
