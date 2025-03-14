@@ -1,4 +1,4 @@
-# Django_Class_Based_API
+# DjangoCBVsCRUDAPI
 
 Class-Based REST (Representational State Transfer) API with Django and Django REST Framework
 
@@ -6,8 +6,8 @@ Class-Based REST (Representational State Transfer) API with Django and Django RE
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pxiaccount/Django_Class_Based_API.git
-    cd Django_Class_Based_API
+    git clone https://github.com/pxiaccount/DjangoCBVsCRUDAPI.git
+    cd DjangoCBVsCRUDAPI
     ```
 2. Create a virtual environment and activate it:
     ```bash
