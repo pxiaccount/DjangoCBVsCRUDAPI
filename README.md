@@ -1,13 +1,13 @@
-# REST_API_Django
+# Django_Class_Based_API
 
-REST (Representational State Transfer) API with Django and Django REST Framework
+Class-Based REST (Representational State Transfer) API with Django and Django REST Framework
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pxiaccount/REST_API_Django.git
-    cd REST_API_Django
+    git clone https://github.com/pxiaccount/Django_Class_Based_API.git
+    cd Django_Class_Based_API
     ```
 2. Create a virtual environment and activate it:
     ```bash
