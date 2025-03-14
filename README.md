@@ -1,6 +1,6 @@
 # DjangoCBVsCRUDAPI
 
-Class-Based REST (Representational State Transfer) API with Django and Django REST Framework
+Class-Based REST (Representational State Transfer) API with Django
 
 ## Installation
 
